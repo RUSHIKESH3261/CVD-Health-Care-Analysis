@@ -1,2 +1,2 @@
 # CVD ML Project
-All of my data science career projects are placed here. Please send me the changes you will make.
+This is the Cardiovascular Disease data analysis performed using ML techniques and SQL
